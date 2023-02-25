@@ -6,7 +6,7 @@ import {
   PostWidget,
   Author,
   Comments,
-  CommentsForm,
+  CommentsForm,Loader
 } from "../../components";
 import { useRouter } from 'next/router';
 
