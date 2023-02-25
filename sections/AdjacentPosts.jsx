@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { getPosts } from "../services";
 
-import { AdjacentPostCard } from "../src/components";
+// import { AdjacentPostCard } from "../src/components";
 
 const AdjacentPosts = ({ createdAt, slug }) => {
   const [adjacentPost, setAdjacentPost] = useState(null);
