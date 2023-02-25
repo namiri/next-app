@@ -135,7 +135,7 @@ body {
   text-shadow: 0px 2px 0px rgb(0 0 0 / 30%);
 }
 
-.adjacent-post{
+/*.adjacent-post{
   & .arrow-btn{
     transition: width 300ms ease;
     width: 50px;
@@ -145,9 +145,9 @@ body {
       width: 60px;
     }
   }
-}
+}*/
 
-.react-multi-carousel-list {
+/*.react-multi-carousel-list {
   & .arrow-btn{
     transition: width 300ms ease;
     width: 50px;
@@ -156,5 +156,5 @@ body {
     }
   }
   
-}
+}*/
 //background: linear-gradient(to right bottom, #6d327c, #485DA6, #00a1ba, #01b18e, #32b37b);
